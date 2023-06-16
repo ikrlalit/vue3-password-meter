@@ -10,10 +10,10 @@ You can simply download the code and run on it on your system.
      -Based on the conditions fullfilled it shows the strength of the password
      
 # Heading 3 Screenshots
-![without password](https://imgur.com/Ugzliuo)
+![without password](https://imgur.com/XnJyXXF)
 
-![Start typing password](https://imgur.com/oKMPIWu)
+![Start typing password](https://imgur.com/U2BdnA5)
 
-![When all condition satisfied](https://imgur.com/X6rWmgT)
+![When all condition satisfied](https://imgur.com/iOw4dc8)
 
 
