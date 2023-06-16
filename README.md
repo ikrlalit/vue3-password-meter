@@ -3,7 +3,7 @@
 This is the code in Vue.Js 3 for checking password strength and display the minimum requirements to be fullfilled before proceeding.
 You can simply download the code and run on it on your system.
 
-# Features are Vue Password Meter are
+# Features
      -Checks for minimum length
      -Checks for uppercase, lowercase, special character and digits in the password
      -Button to toggle visibility of password
