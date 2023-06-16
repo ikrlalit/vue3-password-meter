@@ -4,11 +4,14 @@ This is the code in Vue.Js 3 for checking password strength and display the mini
 You can simply download the code and run on it on your system.
 
 # Features
--Checks for minimum length
--Checks for uppercase, lowercase, special character and digits in the password
--Button to toggle visibility of password
--Based on the conditions fullfilled it shows the strength of the password
--It is reactive means shows latest updated status 
-     
+
+The application possesses the following features:
+
+- Checks for the minimum length
+- Checks for uppercase, lowercase, special characters, and digits in the password
+- Provides a button to toggle visibility of the password
+- Shows the strength of the password based on the conditions fulfilled
+- Reactively updates the status to show the latest information
+
 
 
