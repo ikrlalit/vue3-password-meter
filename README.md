@@ -17,7 +17,7 @@ This tool is helpful for ensuring users create strong and secure passwords.
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository and move to the project directory
+#### 1. Clone the Repository and move to the project directory
     git clone https://github.com/ikrlalit/vue3-password-meter
     cd vue3-password-meter
-### 2. Locate the index.html file in the project directory and double-click it to open it in your default web browser. This will display the Vue3 Password Meter's user interface.
+#### 2. Locate the index.html file in the project directory and double-click it to open it in your default web browser. This will display the Vue3 Password Meter's user interface.
