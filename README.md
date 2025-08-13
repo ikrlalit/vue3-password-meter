@@ -1,17 +1,24 @@
-# Vue Password Meter
+# 🔐 Vue Password Meter
 
-This is the code in Vue.Js 3 for checking password strength and display the minimum requirements to be fullfilled before proceeding.
-You can simply download the code and run on it on your system.
+A simple **Vue.js 3** application to check password strength in real-time and display minimum requirements before proceeding.  
+This tool is helpful for ensuring users create strong and secure passwords.
 
-# Features
+## 📌 Features
 
-The application possesses the following features:
+- ✅ **Minimum Length Check** — Ensures the password meets a defined character length.
+- 🔠 **Character Variety Check** — Validates the presence of:
+  - Uppercase letters
+  - Lowercase letters
+  - Special characters
+  - Digits
+- 👁 **Toggle Visibility** — Show or hide the entered password.
+- 📊 **Strength Indicator** — Displays password strength dynamically based on conditions met.
+- ⚡ **Reactive Updates** — Instantly updates status as the user types.
 
-- Checks for the minimum length
-- Checks for uppercase, lowercase, special characters, and digits in the password
-- Provides a button to toggle visibility of the password
-- Shows the strength of the password based on the conditions fulfilled
-- Reactively updates the status to show the latest information
+## 🚀 Getting Started
 
-
-
+### 1. Clone the Repository and move to the project directory
+    ```
+        git clone https://github.com/ikrlalit/vue3-password-meter
+        cd vue3-password-meter
+### 2. Locate the index.html file in the project directory and double-click it to open it in your default web browser. This will display the Vue3 Password Meter's user interface.
